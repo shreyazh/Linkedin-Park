@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://ps3a2v.netlify.app](https://ps3a2v.netlify.app)
+Visit the live application: [https://ps4a2v.netlify.app](https://ps4a2v.netlify.app)
 
 ## 📖 Overview
 
