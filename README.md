@@ -159,9 +159,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Shreyash Srivastva**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/shreyashsrivastva)
-- GitHub: [@yourusername](https://github.com/shreyazh)
-- Email: hello@linkedinpark.com
+- LinkedIn: [shreyashsrivastva](https://linkedin.com/in/shreyashsrivastva)
+- GitHub: [@shreyazh](https://github.com/shreyazh)
+- Email: usershreyash@gmail.com
 
 ## 🙏 Acknowledgments
 
