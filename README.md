@@ -58,7 +58,7 @@ LinkedIn Park creates authentic professional relationships by:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/shreyazh/Linkedin-Park.git
-   cd linkedin-park
+   cd src
    ```
 
 2. **Install dependencies**
